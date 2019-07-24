@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+}
+#main {
+	display: inline;
+}
+#add {
+	display: none;
+}
+#modyfy {
+	display: none;
+}
+li {
+	list-style-type: none;
+	padding-top: 20px;
+
+}
